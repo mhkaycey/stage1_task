@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
           seedColor: Colors.brown,
           brightness: Brightness.dark,
         ),
+        useMaterial3: true,
       ),
       home: ProfileScreen(),
     );
