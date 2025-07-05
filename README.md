@@ -11,6 +11,7 @@ Profile Download: Button to download/share the profile
 
 📱 Screenshots
 <img src="screenshot/screenshot.png" alt="Profile Screen" width="300">
+
 The app features a dark theme with:
 
 Profile image background
